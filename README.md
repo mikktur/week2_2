@@ -1,2 +1,2 @@
 # Linkki
-[linkki recap1](https://users.metropolia.fi/~mikt/webkehitys/JS-recap2/)
+[linkki recap 2](https://users.metropolia.fi/~mikt/webkehitys/JS-recap2/)
